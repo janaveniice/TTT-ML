@@ -1,4 +1,4 @@
-# Decision Tree Model
+# Tic-Tac-Toe Prediction Model
 This model is trained to play Tic-Tac-Toe with real-life players by predicting the best route to victory. It was trained using Decision Trees to achieve an accuracy of 90.625%.<br>
 This ML model is a part of a project co-developed by CSC1103 Group 10.
 
